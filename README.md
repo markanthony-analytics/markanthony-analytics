@@ -72,7 +72,6 @@
 | 💉 **Medical Spa Performance Insights** | Built a dbt + Snowflake data model to analyze campaign ROI for a medical aesthetics firm. | dbt • Snowflake • Google Analytics |
 | 🌍 **Project Love In Action** | Supported data collection and visualization for nonprofit outreach in Ubakala, Nigeria. | Python • Google Sheets • Airtable |
 
-> 🔍 Explore more on [my repositories »](https://github.com/lumanzeh-analytics?tab=repositories)
 
 ---
 

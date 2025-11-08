@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!-- Advanced PROFILE README for godswill-analytics -->
+<!-- Advanced PROFILE README for  Lumanzeh Markanthony Chukwubuikem -->
 
 
 <h1 align="center">
@@ -9,14 +9,6 @@
   </a>
 </h1>
 
-<p align="center">
-  <a href="https://github.com/godswill-analytics">
-    <img src="https://komarev.com/ghpvc/?username=godswill-analytics&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-  <a href="https://github.com/godswill-analytics?tab=followers">
-    <img src="https://img.shields.io/github/followers/godswill-analytics?label=Followers&style=social" alt="GitHub followers" />
-  </a>
-</p>
 
 ---
 

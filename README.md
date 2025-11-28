@@ -67,10 +67,10 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| 🧩 **ETL Marketing Data Pipeline** | Automated metadata-driven ETL pipeline to unify data from Meta, Google Ads, and LinkedIn into PostgreSQL. | ADF • PySpark • Azure Blob • PostgreSQL |
-| 🏥 **Healthcare Real Estate Analytics** | Created Power BI dashboards to track property performance across senior care facilities in Texas. | Power BI • SQL • Azure Synapse |
-| 💉 **Medical Spa Performance Insights** | Built a dbt + Snowflake data model to analyze campaign ROI for a medical aesthetics firm. | dbt • Snowflake • Google Analytics |
-| 🌍 **Project Love In Action** | Supported data collection and visualization for nonprofit outreach in Ubakala, Nigeria. | Python • Google Sheets • Airtable |
+| 🧩 **Ecommerce Business Intelligence Project** | My primary responsibilities include analysing and optimizing marketing channels, measuring and testing website conversion performance, and analysing data to determine the impact of new product launches. | SQL • MYSQL |
+| 🏥 **Databricks End-to-End-Analytics Engineering Pipeline** | his repository demonstrates ingestion → transformation → modeling → analytics using Delta Lake, Databricks notebooks & parquet sample datasets. | Databricks + Delta Lake • SQL • Python |
+| 💉 **Airflow Spark Snowflake Pipeline** | An end-to-end data platform for ingesting, processing, modeling, and serving e‑commerce operational and clickstream data. | Snowflake • Airflow • Apache Spark • DBT • Kafka|
+| 🌍 **Youtube ELT Project** | The aim of this project is to get familiar with data engineering tools such as Python, Docker & Airflow to produce an ELT data pipeline. . | Python • Docker, Docker-Compose • Airflow  • Github Actions •  Postgres |
 
 
 ---

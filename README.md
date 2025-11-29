@@ -71,7 +71,7 @@
 | 🏥 **Databricks End-to-End-Analytics Engineering Pipeline** | his repository demonstrates ingestion → transformation → modeling → analytics using Delta Lake, Databricks notebooks & parquet sample datasets. | Databricks + Delta Lake • SQL • Python |
 | 💉 **Airflow Spark Snowflake Pipeline** | An end-to-end data platform for ingesting, processing, modeling, and serving e‑commerce operational and clickstream data. | Snowflake • Airflow • Apache Spark • DBT • Kafka|
 | 🌍 **Youtube ELT Project** | The aim of this project is to get familiar with data engineering tools such as Python, Docker & Airflow to produce an ELT data pipeline. . | Python • Docker, Docker-Compose • Airflow  • Github Actions •  Postgres |
-| 🌍 **Air Quality Data Pipeline on Snowflake** | TThis project implements an end-to-end data pipeline architecture using Snowflake (on AWS) to collect, process, and visualize Air Quality Index (AQI) data from multiple global monitoring stations. | Snowflake (AWS) • Python • Airflow  • Github Actions • GitHub • SQL |
+| 🌍 **Air Quality Data Pipeline on Snowflake** | This project implements an end-to-end data pipeline architecture using Snowflake (on AWS) to collect, process, and visualize Air Quality Index (AQI) data from multiple global monitoring stations. | Snowflake (AWS) • Python • Airflow  • Github Actions • GitHub • SQL |
 
 
 ---
